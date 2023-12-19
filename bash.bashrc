@@ -3,7 +3,7 @@ command_not_found_handle() {
 }
 PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[CyberKid]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
 clear
-mpv /$HOME/Voice-Welcome/termux.mp3
+mpv /$HOME/Voice-Welcome/Access Granted Ready For Hacking .mp3
 clear
 echo -e "Created By \e[5mCYBER KID"
 echo "----------------------------" | lolcat
@@ -38,7 +38,7 @@ echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■�
 echo ""
 echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mRule.1   \e[1;91m =  \e[1;97mAim For Impossible"
 echo "" 
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mRule.2    \e[1;91m =  \e[1;97mNo System Is Safe"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mRule.2   \e[1;91m =  \e[1;97mNo System Is Safe"
 echo ""
 echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mRule.3  \e[1;91m =  \e[1;97mProtect Your Self"
 echo ""
